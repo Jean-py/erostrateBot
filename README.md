@@ -1,0 +1,2 @@
+# erostrateBot
+Bot halite
